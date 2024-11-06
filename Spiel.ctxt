@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Spiel
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Spiel.\n\ \n\ @author\ GUET\n\ @version\ 2024\n
+comment1.params=pMan1\ pMan2
+comment1.target=Spiel(Mannschaft,\ Mannschaft)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Spiel\n
+comment10.params=
+comment10.target=java.lang.String\ getSpielstand()
+comment2.params=
+comment2.target=void\ erhoeheSpielstandA()
+comment3.params=
+comment3.target=void\ erhoeheSpielstandB()
+comment4.params=pErgebnisA\ pErgebnisB
+comment4.target=void\ ergebnisEintragen(int,\ int)
+comment5.params=
+comment5.target=void\ starteSpiel()
+comment6.params=
+comment6.target=void\ beendeSpiel()
+comment7.params=
+comment7.target=java.lang.String\ getStatus()
+comment7.text=set-\ und\ get-\ Methoden\ ***************
+comment8.params=
+comment8.target=java.lang.String\ getNameMannschaftA()
+comment9.params=
+comment9.target=java.lang.String\ getNameMannschaftB()
+numComments=11

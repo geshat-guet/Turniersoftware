@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mannschaft
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Mannschaft.\n\ \n\ @author\ guet\ \n\ @version\ 2024\n
+comment1.params=pName
+comment1.target=Mannschaft(java.lang.String)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Mannschaft\n
+comment2.params=pNeuerSpieler\ pPosition
+comment2.target=void\ spielerHinzufuegen(Spieler,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=punkte
+comment4.target=void\ setTurnierpunkte(int)
+numComments=5

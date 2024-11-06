@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Turnierplan
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Turnier.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=Turnierplan()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Turnier\n\ \n
+comment2.params=
+comment2.target=void\ starteTurnier()
+comment2.text=\n\ Mannschaften\ eintragen\n\ Turnierplan\ erstellen\ (turnierKonfigurieren)\n\ loop\:\ Spiel\ starten\n\ \ \ \ \ \ \ Spiel\ erfassen\n\ \ \ \ \ \ \ Spiel\ beenden\n
+comment3.params=
+comment3.target=void\ beendeTurnier()
+comment3.text=\n\ Gewinner\ anzeigen\n
+comment4.params=
+comment4.target=void\ turnierKonfigurieren()
+comment4.text=\n\ Turnierplan\ erstellen\n\ Liste\ der\ Spiele\ erstellen\n
+comment5.params=
+comment5.target=void\ alleSpieleAusgeben()
+numComments=6
